@@ -1,5 +1,6 @@
-./model_learning_renewed/archive
-./pytorch_learning_models/data
-./pytorch_tutorial/data
-./pytorch_tutorial/temp
-./pytorch_tutorial/models
+model_learning_renewed/archive
+model_learning_renewed/archive.zip
+pytorch_learning_models/data
+pytorch_tutorial/data
+pytorch_tutorial/temp
+pytorch_tutorial/models
